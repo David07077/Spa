@@ -1,0 +1,10 @@
+
+h2 {
+  color: #28a745;
+  font-weight: bold;
+}
+
+ul.list-group {
+  border: 2px solid #dee2e6;
+  border-radius: 8px;
+}
